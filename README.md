@@ -3,9 +3,9 @@
 
 Brain Memory Game is a Java swing application where players match pairs of cards to test and improve their memory, the game records  scores , ranks players , and provides recommendations for improvement.
 # Technologies used
-1.Java 
-2.Java swing
-3.Object oriented programming
+Java
+Java swing
+Object oriented programming
 
 # Installations
 Intelli J idea or Java Script application.
