@@ -33,6 +33,7 @@ Run the Game:
 java Main
 ```
 # How to play
+
 1.Enter name.
 2.Click 2 cards to reveal them.
 3.Match all card pairs.
@@ -40,4 +41,5 @@ java Main
 5.View score , rank and recommendations.
 
 #Author
+
 Mutavu Sonia Nyagatare.
