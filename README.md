@@ -42,6 +42,3 @@ java Main
 5.View score , rank and recommendations.
 ```
 
-#Author
-
-Mutavu Sonia Nyagatare.
